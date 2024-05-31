@@ -1,2 +1,3 @@
-# schempack400
-large schemepack for mindustry
+# schems
+Пак схем для игры mindustry \
+Discord: fox1va_
